@@ -23,6 +23,8 @@ This repository contains a single-file governance package covering:
 
 > **Disclaimer:** Cortexa AI Inc., Priya Sharma, Rachel Donovan, and all named individuals are fictional, created for a governance-documentation exercise. The asset inventory, classifications, and data flows are illustrative work product, not a real company's actual technical environment.
 
+<img width="1400" height="950" alt="Level0_Data_Flow_Diagram" src="https://github.com/user-attachments/assets/9c0cd4bd-3a47-4294-9c79-4f6456b9e9ab" />
+
 ---
 
 # AI Asset Register & Data Classification Matrix
